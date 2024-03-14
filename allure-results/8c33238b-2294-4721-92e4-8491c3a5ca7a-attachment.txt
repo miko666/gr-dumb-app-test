@@ -1,0 +1,4 @@
+{
+  "using": "accessibility id",
+  "value": "com.continuum.emi.calculator:id/btnStart"
+}

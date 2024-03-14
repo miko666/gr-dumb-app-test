@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "com.continuum.emi.calculator:id/btnStart\")"
+}

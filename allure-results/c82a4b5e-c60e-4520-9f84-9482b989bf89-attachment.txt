@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "com.continuum.emi.calculator:id/design_menu_item_text"
+}

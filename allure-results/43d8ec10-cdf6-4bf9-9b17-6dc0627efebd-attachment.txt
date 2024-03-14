@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "uuid(\"00000000-0000-06c5-ffff-ffff000000b9\")"
+}
