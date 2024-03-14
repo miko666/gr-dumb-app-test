@@ -2,7 +2,10 @@
 
 # Dependency directories
 node_modules/
+allure-results/
+apps/
+
 
 package-lock.json
-allure-results
+
 
