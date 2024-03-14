@@ -1,4 +1,0 @@
-{
-  "using": "-android uiautomator",
-  "value": "resourceId(\"com.continuum.emi.calculator:id/etMonths\")"
-}

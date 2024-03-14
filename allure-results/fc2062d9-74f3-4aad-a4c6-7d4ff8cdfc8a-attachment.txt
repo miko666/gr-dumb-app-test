@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[contains(@resource-id, \"com.continuum.emi.calculator:id/tvMonths_lv\") and @text=\"3\"]"
-}

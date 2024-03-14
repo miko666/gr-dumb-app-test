@@ -1,4 +1,0 @@
-{
-  "using": "-android uiautomator",
-  "value": "resourceId(\"ccom.continuum.emi.calculator:id/interest_result\")"
-}
