@@ -17,3 +17,5 @@ testing :
 - vyslo mi z tade niekolko chyb - ak predpokladam ze som dokazal spravne vygooglit tie vzorce, tak napr. total interest sa nezhodoval s mojimi vysledkami vzdy o jednotky/stotiny, v total payment nebolo zapocitane processing fee, emi sa v appke zaokruhluje na stotiny, v history tabulke sa mi zasa nezdalo ze by malo byt balance, ale total payment (..aj ked teraz ked premyslam nad UX, tak to asi dava zmysel -> kazdopadne nesedi to tak ci tak)
 
 - ale velmi pekna appka - skoro som zas zacal fajcit:)
+
+edit : v projekte su 2 contributors, to preto ze som repozitar vytvoril s osobnym uctom cez web a ked som pushoval kod, tak vo VSC mam este nastaveny token z pracovneho uctu
